@@ -32,8 +32,9 @@ jobs:
         distribution: 'temurin'
         java-version: '17'
 
-    - name: Add Android platform and Build APK
+    - name: Clean conflicting files and Build APK
       run: |
+        rm -rf android/capacitor.config.json
         npx cap add android || true
         npx cap sync android
         cd android
