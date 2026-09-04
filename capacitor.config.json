@@ -1,6 +1,6 @@
-
 {
-  "appId": "com.well.surveyfahd",
-  "appName": "Well Survey Fahd",
-  "webDir": "."
+  "appId": "com.fahdalquteej.wellsurvey",
+  "appName": "well-surveyfahd",
+  "webDir": "www",
+  "bundledWebRuntime": false
 }
