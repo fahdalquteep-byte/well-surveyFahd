@@ -1,0 +1,11 @@
+{
+  "name": "استمارة مسح الآبار — مشروع الخارطة",
+  "short_name": "مسح الآبار",
+  "start_url": "./",
+  "display": "standalone",
+  "dir": "rtl",
+  "lang": "ar",
+  "theme_color": "#17365d",
+  "background_color": "#f4f1e8",
+  "icons": []
+}
