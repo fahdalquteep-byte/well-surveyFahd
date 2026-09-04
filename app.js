@@ -1126,4 +1126,5 @@ if (
     );
 } else {
     initApp();
-         }
+         }}
+console.log('APP READY');
